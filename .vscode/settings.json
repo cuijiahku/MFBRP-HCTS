@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./HCTS"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}

@@ -1,0 +1,17 @@
+{
+  "type_num": 2,
+  "bike_types": [0, 1],
+  "LT": 0.5,
+  "ST": 0.5,
+  "C_t": 20,
+  "C_d": 2,
+  "C_d_bty": 10,
+  "T_max": 120,
+  "TC_D": 1,
+  "TC_T": 20,
+  "LC": 0.25,
+  "w": 3,
+  "coordinate_unit_m": 10,
+  "truck_speed_km_per_min": 0.23,
+  "laborer_speed_km_per_min": 0.08
+}
